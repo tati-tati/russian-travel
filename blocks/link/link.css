@@ -1,9 +1,17 @@
 .link {
   text-decoration: none;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .link:hover {
   cursor: pointer;
   opacity: .8;
+}
+
+.link:visited {
+  text-decoration: underline;
+}
+
+.link:active {
+  text-decoration: underline;
 }
