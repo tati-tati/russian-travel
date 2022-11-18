@@ -26,7 +26,7 @@
   bottom: 0;
   background-color: #2a2c2f;
   opacity: .3;
-  z-index: -1;;
+  z-index: -1;
   transition: opacity .3s ease;
 }
 
