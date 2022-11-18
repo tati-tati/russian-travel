@@ -1,4 +1,5 @@
 .cover {
-  outline: 3px solid red;
-  position: relative;
+  /*position: relative;*/
+  padding: 0;
+  margin: 0 auto;
 }
